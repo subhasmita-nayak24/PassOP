@@ -49,7 +49,7 @@ const Navbar = () => {
           </li>
         </ul> */}
         <button onClick={openGithubProfile} className='text-white my-1 bg-purple-800 rounded-full flex items-center justify-between ring-white ring-1'>
-          <img className='w-10 p-1' src="Github.png" alt="github logo" />
+          <img className='w-10 p-1' src="github.png" alt="github logo" />
           <span className='font-bold px-2'>Github
           
           </span>
