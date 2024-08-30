@@ -5,5 +5,6 @@ Password Manager is a web application designed for save your password on your lo
 click-https://pass-op-sk9d.vercel.app/
 # Technologies Used 
  Frontend: React.js
+ 
  Styling: Tailwind CSS
 
