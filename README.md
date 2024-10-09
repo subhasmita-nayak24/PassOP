@@ -12,7 +12,7 @@ Welcome to the **Password Manager** application, a secure and user-friendly tool
 
 ## Live Demo 🌐
 
-Check out the live version of the Password Manager here: [Password Manager](https://your-vercel-url.vercel.app)
+Check out the live version of the Password Manager here: [Password Manager](https://pass-op-sk9d.vercel.app/)
 
 ## Tech Stack 🛠️
 
